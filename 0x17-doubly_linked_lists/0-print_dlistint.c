@@ -4,8 +4,8 @@
 #include "lists.h"
 
 /**
- * Print_dlistint - returns the number of elements in a linked lists
- * @h: linked list of type listint_t to traverse
+ * print_dlistint - prints all the elements of a linked list
+ * @h: linked list of type dlistint_t to print
  *
  * Return: number of nodes
  */
